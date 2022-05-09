@@ -8,3 +8,4 @@
 [第六章 栈](https://github.com/zaoshangqichuang/2021algorithms/blob/main/%E3%80%90%E5%89%91%E6%8C%87offer%E3%80%91%E7%AC%AC%E5%85%AD%E7%AB%A0.ipynb)  
 [第七章 队列](https://github.com/zaoshangqichuang/2021algorithms/blob/main/%E3%80%90%E5%89%91%E6%8C%87offer%E3%80%91%E7%AC%AC%E4%B8%83%E7%AB%A0.ipynb)  
 [第八章 二叉树：8.2深度优先搜索](https://github.com/zaoshangqichuang/2021algorithms/blob/main/%E3%80%90%E5%89%91%E6%8C%87offer%E3%80%91%E7%AC%AC%E5%85%AB%E7%AB%A0_8.2.ipynb)  
+[第八章 二叉树：8.3二叉搜索树](https://github.com/zaoshangqichuang/JianZhiOffer2021_python/blob/main/%E3%80%90%E5%89%91%E6%8C%87offer%E3%80%91%E7%AC%AC%E5%85%AB%E7%AB%A0_8.3.ipynb)  
